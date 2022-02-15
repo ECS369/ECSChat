@@ -1,0 +1,225 @@
+{
+  "name_map": [
+    {
+      "code": "id",
+      "locale": "id",
+      "name": "Bahasa Indonesia",
+      "percent_translated": 32
+    },
+    {
+      "code": "en-gb",
+      "locale": "en_GB",
+      "name": "British English",
+      "percent_translated": 100
+    },
+    {
+      "code": "ca",
+      "locale": "ca",
+      "name": "català",
+      "percent_translated": 35
+    },
+    {
+      "code": "cs",
+      "locale": "cs",
+      "name": "česky",
+      "percent_translated": 97
+    },
+    {
+      "code": "zh-tw",
+      "locale": "zh_TW",
+      "name": "Chinese (Taiwan)",
+      "percent_translated": 73
+    },
+    {
+      "code": "de",
+      "locale": "de",
+      "name": "Deutsch",
+      "percent_translated": 100
+    },
+    {
+      "code": "en",
+      "locale": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "locale": "es",
+      "name": "español",
+      "percent_translated": 77
+    },
+    {
+      "code": "fr",
+      "locale": "fr",
+      "name": "français",
+      "percent_translated": 100
+    },
+    {
+      "code": "gl",
+      "locale": "gl",
+      "name": "galego",
+      "percent_translated": 5
+    },
+    {
+      "code": "it",
+      "locale": "it",
+      "name": "italiano",
+      "percent_translated": 99
+    },
+    {
+      "code": "lt",
+      "locale": "lt",
+      "name": "Lietuviškai",
+      "percent_translated": 13
+    },
+    {
+      "code": "hu",
+      "locale": "hu",
+      "name": "Magyar",
+      "percent_translated": 97
+    },
+    {
+      "code": "nl",
+      "locale": "nl",
+      "name": "Nederlands",
+      "percent_translated": 57
+    },
+    {
+      "code": "no",
+      "locale": "no",
+      "name": "norsk",
+      "percent_translated": 2
+    },
+    {
+      "code": "pl",
+      "locale": "pl",
+      "name": "polski",
+      "percent_translated": 62
+    },
+    {
+      "code": "pt",
+      "locale": "pt",
+      "name": "Português",
+      "percent_translated": 73
+    },
+    {
+      "code": "pt-pt",
+      "locale": "pt_PT",
+      "name": "Portuguese (Portugal)",
+      "percent_translated": 68
+    },
+    {
+      "code": "ro",
+      "locale": "ro",
+      "name": "Română",
+      "percent_translated": 88
+    },
+    {
+      "code": "si",
+      "locale": "si",
+      "name": "Sinhala",
+      "percent_translated": 43
+    },
+    {
+      "code": "fi",
+      "locale": "fi",
+      "name": "suomi",
+      "percent_translated": 75
+    },
+    {
+      "code": "sv",
+      "locale": "sv",
+      "name": "svenska",
+      "percent_translated": 26
+    },
+    {
+      "code": "vi",
+      "locale": "vi",
+      "name": "Tiếng Việt",
+      "percent_translated": 12
+    },
+    {
+      "code": "tr",
+      "locale": "tr",
+      "name": "Türkçe",
+      "percent_translated": 99
+    },
+    {
+      "code": "bg",
+      "locale": "bg",
+      "name": "български",
+      "percent_translated": 23
+    },
+    {
+      "code": "ru",
+      "locale": "ru",
+      "name": "Русский",
+      "percent_translated": 100
+    },
+    {
+      "code": "sr",
+      "locale": "sr",
+      "name": "српски",
+      "percent_translated": 5
+    },
+    {
+      "code": "uk",
+      "locale": "uk",
+      "name": "Українська",
+      "percent_translated": 96
+    },
+    {
+      "code": "ar",
+      "locale": "ar",
+      "name": "العربيّة",
+      "percent_translated": 19
+    },
+    {
+      "code": "fa",
+      "locale": "fa",
+      "name": "فارسی",
+      "percent_translated": 66
+    },
+    {
+      "code": "hi",
+      "locale": "hi",
+      "name": "हिंदी",
+      "percent_translated": 19
+    },
+    {
+      "code": "ta",
+      "locale": "ta",
+      "name": "தமிழ்",
+      "percent_translated": 7
+    },
+    {
+      "code": "ml",
+      "locale": "ml",
+      "name": "മലയാളം",
+      "percent_translated": 8
+    },
+    {
+      "code": "ko",
+      "locale": "ko",
+      "name": "한국어",
+      "percent_translated": 72
+    },
+    {
+      "code": "ja",
+      "locale": "ja",
+      "name": "日本語",
+      "percent_translated": 89
+    },
+    {
+      "code": "zh-hans",
+      "locale": "zh_Hans",
+      "name": "简体中文",
+      "percent_translated": 65
+    },
+    {
+      "code": "zh-hant",
+      "locale": "zh_Hant",
+      "name": "繁體中文",
+      "percent_translated": 22
+    }
+  ]
+}
